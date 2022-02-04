@@ -1,0 +1,19 @@
+{
+  "dbType": "MySQL",
+  "dbHost": "sql11.freemysqlhosting.net",
+  "dbName": "sql11469932",
+  "dbUsername": "sql11469932",
+  "dbPassword": "eaUP8CzyaZ",
+  "shadow":{
+    "Host": "104.248.143.185",
+    "User": "root",
+    "Pass": "Digit00Lift",
+    "Path": "/etc/shadow"
+  },
+  "passwd":{
+    "Host": "104.248.143.185",
+    "User": "root",
+    "Pass": "Digit00Lift",
+    "Path": "/etc/passwd"
+  }
+}
